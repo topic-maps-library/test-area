@@ -5,12 +5,6 @@
       <type>org.wandora.topicmap.memory.TopicMapImpl</type>
       <visiblity>true</visiblity>
       <readonly>false</readonly>
-   </layer0>
-   <layer1>
-      <name>test</name>
-      <type>org.wandora.topicmap.memory.TopicMapImpl</type>
-      <visiblity>true</visiblity>
-      <readonly>false</readonly>
       <selected>true</selected>
-   </layer1>
+   </layer0>
 </options>
