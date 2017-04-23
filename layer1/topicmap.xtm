@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topicMap xmlns="http://www.topicmaps.org/xtm/" version="2.0">
+	<topic id="topic0.1492967288383">
+		<subjectIdentifier href="http://wandora.org/si/temp/1492967288384-0"/>
+		<instanceOf>
+			<topicRef href="#topic1.1492967289863"/>
+		</instanceOf>
+		<name>
+			<value>test123</value>
+		</name>
+	</topic>
+	<topic id="topic1.1492967289863">
+		<subjectIdentifier href="http://wandora.org/si/core/wandora-class"/>
+	</topic>
+</topicMap>
