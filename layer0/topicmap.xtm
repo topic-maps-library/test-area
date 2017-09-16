@@ -761,6 +761,15 @@
 			<value>test44</value>
 		</name>
 	</topic>
+	<topic id="topic1.1505578530760">
+		<subjectIdentifier href="http://wandora.org/si/temp/1505578530761-1"/>
+		<instanceOf>
+			<topicRef href="#topic46.1492867045828"/>
+		</instanceOf>
+		<name>
+			<value>topic 5</value>
+		</name>
+	</topic>
 	<association>
 		<type>
 			<topicRef href="#topic29.1492867045825"/>
