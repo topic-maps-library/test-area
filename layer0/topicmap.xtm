@@ -770,6 +770,15 @@
 			<value>topic 5</value>
 		</name>
 	</topic>
+	<topic id="topic2.1505578556926">
+		<subjectIdentifier href="http://wandora.org/si/temp/1505578556926-2"/>
+		<instanceOf>
+			<topicRef href="#topic46.1492867045828"/>
+		</instanceOf>
+		<name>
+			<value>Topic 6</value>
+		</name>
+	</topic>
 	<association>
 		<type>
 			<topicRef href="#topic29.1492867045825"/>
